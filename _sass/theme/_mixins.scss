@@ -64,7 +64,7 @@
 @mixin gradient-image-bg($img-name,$gr-cl1,$gr-cl2){
   background: url('../img/#{$img-name}.png') no-repeat center, -moz-linear-gradient(135deg, $gr-cl1 0, $gr-cl2 100%);
   background: url('../img/#{$img-name}.png') no-repeat center, -webkit-gradient(135deg, $gr-cl1 0, $gr-cl2 100%);
-  background: url('../img/#{$img-name}.png') no-repeat center, -webkit-linear-gradient(135deg, $gr-cl1 0, $gr-cl2 100%);
+  background: url('../img/#{$img-name}.png') no-repeat center, -webkit-linear-gradient(110deg, #60B0F4 82%, #d1eaff 100%);
   background: url('../img/#{$img-name}.png') no-repeat center, -o-linear-gradient(135deg, $gr-cl1 0, $gr-cl2 100%);
   background: url('../img/#{$img-name}.png') no-repeat center, -ms-linear-gradient(135deg, $gr-cl1 0, $gr-cl2 100%);
   background: url('../img/#{$img-name}.png') no-repeat center, linear-gradient(135deg, $gr-cl1 0, $gr-cl2 100%);
