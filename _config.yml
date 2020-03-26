@@ -2,12 +2,12 @@
 ####################################
 ######     Global start     ######
 ####################################
-name                : 'Becore'
+name                : 'Biofy'
 title               : 'Softdash - Creative SaaS And Software HTML5 Jekyll Template'
-email               : demo@example.com
-address             : '2216 Park Avenue, California 95630 '
+email               : andyalikberov@gmail.com
+address             : '2216 Park Avenue, California 95630'
 phone               : 0185612012035
-tagline             : 'description for your new site here'
+tagline             : 'Biotech startup'
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -115,7 +115,7 @@ hero_product_background_image_btn_one_text:  'Browse free demo'
 
 # product_fixed_image
 hero_product_fixed_image_name: 'AI for Healthcare'
-hero_product_fixed_image_text: 'We build algorithms to improve business processes in healthcare service providers, starting from predicting infected patients (an early-warning system), ending with improved capacity management at the hospitals by anticipating future demand.'
+hero_product_fixed_image_text: 'We build algorithms to predict whether a patient infected with COVID-19 will become in need of ventilation, and allocate capacity management at the hospitals by anticipating future demand.'
 #hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
 hero_product_fixed_image_btn_one_text:  'Browse our demo'
@@ -428,7 +428,7 @@ contact_address: 'Los Angeles, United States'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'About 64% of all on-line teens say that do things online that they wouldn’t want their parents to know about. 11% of all adult internet user visit websites.'
+footer_description: 'We are a small team of data science and biology enthusiasts who build machine learning models to make the dutch healthcare system slightly better.'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
@@ -455,7 +455,6 @@ footer_features_link_one_link: '#'
 footer_facebook_link: '#'
 footer_twitter_link: '#'
 footer_dribbble_link: '#'
-footer_behance_link: '#'
 
 mailchimp:
   user-id:
@@ -466,7 +465,7 @@ mailchimp:
 ######        Copyright       ######
 ####################################
 copyright_text: Copyright © 2019 All rights reserved to
-company_url: '#'
+company_url: ''
 
 
 # SEO Related
