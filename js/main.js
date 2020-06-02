@@ -1,3 +1,9 @@
+window.onload = () => {
+    if (window.location.pathname == "/") {
+        particlesJS.load('particles-js', 'particles.json');
+    }
+}
+
 $(document).ready(function () {
     "use strict";
 
@@ -11,7 +17,7 @@ $(document).ready(function () {
     $(".fitscreen").css("height", fitscreen);
 
     /* ---------------------------------------------
-        Initiate superfish on nav menu 
+        Initiate superfish on nav menu
      --------------------------------------------- */
 
     $('.nav-menu').superfish({
