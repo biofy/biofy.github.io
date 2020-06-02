@@ -114,8 +114,8 @@ hero_product_background_image_btn_one_text:  'Browse free demo'
 
 
 # product_fixed_image
-hero_product_fixed_image_name: 'AI for Healthcare'
-hero_product_fixed_image_text: 'We build algorithms to predict whether a patient infected with COVID-19 will become in need of ventilation, and allocate capacity management at the hospitals by anticipating future demand.'
+hero_product_fixed_image_name: 'AI for Real Estate'
+hero_product_fixed_image_text: 'Building machine learning algorithms to outperform the housing market.'
 #hero_product_fixed_image_image: 'img/iPhoneX.png'
 hero_product_fixed_image_btn_one_link: '#'
 hero_product_fixed_image_btn_one_text:  'Browse our demo'
@@ -186,16 +186,16 @@ whitelist:
 ####################################
 
 feature_image_one: 'img/feature/i1.png'
-feature_title_one: 'Predicting Infected'
-feature_description_one: 'Improved predictive power - an early-warning system - should the user require hospital care.'
+feature_title_one: 'Predicting Housing Prices'
+feature_description_one: 'This is a future text'
 
 feature_image_two: 'img/feature/i3.png'
-feature_title_two: 'Hospital Capacity Optimization'
-feature_description_two: 'Improved capacity management at the hospitals by anticipating future demand'
+feature_title_two: 'Predicting Housing Prices'
+feature_description_two: 'This is a future text'
 
 feature_image_three: 'img/feature/i4.png'
-feature_title_three: 'Pre-emptive Measures'
-feature_description_three: 'Enabled pre-emptive measures to reduce the inflow of patients to hospitals with limited capacity.'
+feature_title_three: 'Predicting Housing Prices'
+feature_description_three: 'This is a future text'
 
 
 ####################################
@@ -428,7 +428,7 @@ contact_address: 'Los Angeles, United States'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'We are a small team of data science and biology enthusiasts who build machine learning models to make the dutch healthcare system slightly better.'
+footer_description: 'We build machine learning models to make the housing market slightly better.'
 
 footer_resources_link_heading: 'Resources'
 footer_resources_link_one_text: 'Guides'
